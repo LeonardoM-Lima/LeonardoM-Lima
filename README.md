@@ -1,4 +1,4 @@
-Hello There, my name is Leonardo Lima
+<h2 align="center"💂Hello There, my name is Leonardo Lima💂</h2>
 
 
 - 🌱 Estudando JavaScript
