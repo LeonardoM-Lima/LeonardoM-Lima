@@ -1,9 +1,8 @@
-<h2 align="center"💂Hello There, my name is Leonardo Lima💂</h2>
+<h2 align="center">💂Hello There, my name is Leonardo Lima💂</h2>
 
 
 - 🌱 Estudando JavaScript
 - 🥊 18 Anos
-- 
 
 <div align="center">
   <a href="https://github.com/LeonardoM-Lima">
