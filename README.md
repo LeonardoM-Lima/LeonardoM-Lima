@@ -3,6 +3,7 @@
 
 - 🌱 Estudando JavaScript and React
 - 🥊 18 Anos
+- 💻 Trabalhando na Meta Serviços em Informática S/A
 
 <div align="center">
   <a href="https://github.com/LeonardoM-Lima">
