@@ -1,9 +1,8 @@
 <h2 align="center">💂Hello There, my name is Leonardo Lima💂</h2>
 
 
-- 🌱 Estudando JavaScript and React
-- 🥊 18 Anos
-- 💻 Trabalhando na Meta Serviços em Informática S/A
+- 🌱 Estudando AWS
+- 🥊 22 Anos
 
 <div align="center">
   <a href="https://github.com/LeonardoM-Lima">
